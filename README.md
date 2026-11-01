@@ -4,19 +4,15 @@ An interactive **Solo Leveling-inspired Player Dashboard** built using HTML, CSS
 
 This project recreates the feeling of a futuristic RPG player status system, where users can view their hunter rank, level, health, mana, experience, physical attributes, and abilities.
 
-## 🌐 Live Demo
-
-[View Live Project](YOUR_GITHUB_PAGES_URL)
-
 ## 📸 Interface Preview
 
 ### Welcome Screen
 
-![Welcome Screen](assets/welcome-screen.png)
+![Welcome Screen](assets/img1.img)
 
 ### Player Dashboard
 
-![Player Dashboard](assets/dashboard-preview.png)
+![Player Dashboard](assets/img2.img)
 
 ## ✨ Features
 
@@ -50,13 +46,13 @@ This project recreates the feeling of a futuristic RPG player status system, whe
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone github.com/Mayur-patil-5/solo-system
    ```
 
 2. Open the project folder:
 
    ```bash
-   cd solo-leveling-player-system
+   cd solo-system
    ```
 
 3. Open `index.html` in your browser or use the VS Code Live Server extension.
