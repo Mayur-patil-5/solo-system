@@ -8,11 +8,11 @@ This project recreates the feeling of a futuristic RPG player status system, whe
 
 ### Welcome Screen
 
-![Welcome Screen](assets/img1.png)
+![Welcome Screen](assets/img1)
 
 ### Player Dashboard
 
-![Player Dashboard](assets/img2.png)
+![Player Dashboard](assets/img2)
 
 ## ✨ Features
 
